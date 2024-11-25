@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(34, 165, 165);
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: blach;
+    padding-top: 20px;
+}
+.box2{
+    width: 100%;
+    height: 20px;
+    background-color: white;}
+
+.box3{
+    width: 100%;
+    height: 10000PX;
+    background-color: rgb(124, 82, 163);}
+
+table{
+    margin:0 auto;
+    border-spacing: 15px;
+}
+
+.block {
+    width: 300px;
+    height: 320px;
+    background-color: black;
+}
+
+.block1 {
+    width: 300px;
+    height: 320px;
+    background-color: white;
+}
+
+img{
+    width: 170px;
+    height: 230px;
+}
+
+    
