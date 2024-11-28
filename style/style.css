@@ -8,12 +8,7 @@
     height: 100px;
     background-color: rgb(34, 165, 165);
 }
-h1{
-    font-size: 40px;
-    text-align: center;
-    color: blach;
-    padding-top: 20px;
-}
+
 .box2{
     width: 100%;
     height: 20px;
@@ -32,7 +27,7 @@ table{
 .block {
     width: 300px;
     height: 320px;
-    background-color: black;
+    background-color: rgb(124, 82, 163);
 }
 
 .block1 {
@@ -42,8 +37,48 @@ table{
 }
 
 img{
-    width: 170px;
-    height: 230px;
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+}
+p {
+    font-size: 24px;
+    text-align: center;
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+    
+
+p {
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-style: 24px;
+  font-weight: normal;
+  
+  
 }
 
-    
+
+h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-optical-sizing: auto;
+  font-style: normal;
+  
+}
+h1 {    font-size: 40px;
+    text-align: center;
+    color: black;
+    padding-top: 20px;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+a{
+    text-decoration: 0;
+    color:black
+}
